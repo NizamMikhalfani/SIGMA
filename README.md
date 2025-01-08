@@ -1,4 +1,4 @@
-# Project Title: Web Application
+# Sistem Informasi Geografis Museum dan Arsip (SIGMA)
 
 ## Description
 This web application is designed to store data in a database, allowing for data editing and retrieval. It can run on both localhost for development and in a hosting environment for production.
